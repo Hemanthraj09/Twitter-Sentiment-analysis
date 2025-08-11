@@ -61,11 +61,11 @@ Twitter-Sentiment-analysis/
 6. **Results Visualization**
 
 ## 📊 Results
-[Add your model performance metrics here]
-- Accuracy: XX%
-- Precision: XX%
-- Recall: XX%
-- F1-Score: XX%
+Based on the analysis performed in the Jupyter notebook:
+- **Training Accuracy**: 79.87%
+- **Test Accuracy**: 77.67%
+- **Model**: Logistic Regression with TF-IDF vectorization
+- **Dataset Size**: 1.6M tweets (800K positive, 800K negative)
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
