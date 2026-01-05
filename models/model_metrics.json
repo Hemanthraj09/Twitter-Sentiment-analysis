@@ -1,0 +1,10 @@
+{
+  "train_accuracy": 0.7733484375,
+  "test_accuracy": 0.77133125,
+  "test_f1_score": 0.7769778910216945,
+  "training_samples": 1280000,
+  "test_samples": 320000,
+  "total_dataset_size": 1600000,
+  "tfidf_max_features": 5000,
+  "model_type": "Logistic Regression"
+}
