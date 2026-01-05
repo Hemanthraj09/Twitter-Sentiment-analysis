@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://twitter-sentiment-analysis-p3ycuj5h9prjaqbtysahpa.streamlit.app/)
 
 ## 🎯 Project Overview
 This project performs sentiment analysis on Twitter data using machine learning techniques. It includes both an exploratory Jupyter notebook and an **interactive web application** for real-time sentiment prediction.
@@ -12,7 +12,7 @@ This project performs sentiment analysis on Twitter data using machine learning 
 - **1.6M Training Samples**: Trained on the Sentiment140 dataset
 
 ## 🚀 Live Demo
-Try the live web app: [Twitter Sentiment Analyzer](https://your-app-name.streamlit.app)
+Try the live web app: [Sentiment Analyzer](https://twitter-sentiment-analysis-p3ycuj5h9prjaqbtysahpa.streamlit.app/)
 
 ## 📊 Dataset
 - **Source**: [Sentiment140 from Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
